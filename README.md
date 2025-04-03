@@ -20,10 +20,10 @@ Este projeto utiliza os serviços de IA do Azure para analisar um conjunto de se
 ---
 
 ## Textos
-### A
+### sentecas.txt
 
 
-sentecas.txt
+
 
 ![alt text](image-1.png)
 
@@ -33,8 +33,8 @@ sentecas.txt
 ---
 ![alt text](image-2.png)
 
-### B
-reclamar.txt
+### reclamar.txt
+
 
 ![alt text](image-3.png)
 
