@@ -33,6 +33,8 @@ Este projeto utiliza os serviços de IA do Azure para analisar um conjunto de se
 ---
 ![alt text](image-2.png)
 
+
+
 ### reclamar.txt
 
 
